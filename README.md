@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmeddrsnoffcl
+- 👋 Hi, I’m Ahmed Said Dursun a.k.a @Ahmeddrsnofcl
 - 👀 I’m interested in outdoor sports and pc related anything
 - 🌱 I’m currently learning programming and software engineering
 - 💞️ I’m looking to collaborate on any programming job
